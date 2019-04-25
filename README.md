@@ -1,5 +1,5 @@
 # elecciones-2019-28a
-## Análisis de los programas electorales para las Elecciones Generales de 2019 en España
+## Análisis de los programas electorales para las Elecciones Generales en España (28 de abril, 2019)
 
 Últimos días de la campaña electoral previa a las Elecciones Generales en España, y los partidos políticos tratan de convencer a los no pocos indecisos.
 
@@ -11,7 +11,7 @@ NOTA: Por aquí nadie se ha leído los programas.
 
 --------------------------
 
-# [EN]
+## [EN] Analysis of electoral programs for the Spain General Election (April 28th, 2019)
 
 Last days of the political campaign prior to the General Election in Spain, and the parties try to convince the indecisive few.
 
@@ -19,5 +19,5 @@ In this project we will analyze some aspects of the electoral programs of the ma
 
 NOTE: No one here has read the programs.
 
-* [Notebook: Spain General Election 2019 #28A](https://nbviewer.jupyter.org/github/pyjaime/elecciones-2019-28a/blob/master/elecciones-generales-2019-28a.ipynb)
+* [Notebook: Spain General Election 2019 #28A](https://nbviewer.jupyter.org/github/pyjaime/elecciones-2019-28a/blob/master/elecciones-generales-2019-28a.ipynb) [ES] (sorry)
 
