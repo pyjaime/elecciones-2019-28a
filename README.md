@@ -6,7 +6,8 @@ En este proyecto vamos a analizar con Python algunos aspectos de los programas e
 
 NOTA: Por aquí nadie se ha leído los programas.
 
-* [Notebook: Elecciones Generales 2019 #28A](https://nbviewer.jupyter.org/github/pyjaime/elecciones-2019-28a/blob/master/elecciones-generales-2019-28a.ipynb)
+* [Notebook: Análisis de los programas políticos para las Elecciones Generales](https://nbviewer.jupyter.org/github/pyjaime/elecciones-2019-28a/blob/master/elecciones-generales-2019-28a.ipynb)
+* [Artículo en Medium: "Juego de Tronos, versión española"](https://medium.com/metadatos/juego-de-tronos-versi%C3%B3n-espa%C3%B1ola-fff39cf35adc)
 
 --------------------------
 
