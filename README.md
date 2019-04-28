@@ -18,3 +18,5 @@ Last days of the political campaign prior to the General Election, and the parti
 In this project we will analyze with Python some aspects of the electoral programs of the main spanish parties (in terms of voting intention estimates, according to the latest surveys).
 
 NOTE: No one here has read the programs.
+
+* [Notebook: Analysis of political programs for General Election in Spain](https://nbviewer.jupyter.org/github/pyjaime/elecciones-2019-28a/blob/master/general-election-2019-28a.ipynb) **[english version]**
