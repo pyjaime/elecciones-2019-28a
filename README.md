@@ -1,4 +1,4 @@
-## Análisis de los programas electorales para las Elecciones Generales en España (28 de abril, 2019)
+## [ES] Análisis de los programas electorales para las Elecciones Generales en España (28 de abril, 2019)
 
 Últimos días de la campaña electoral previa a las Elecciones Generales, y los partidos políticos tratan de convencer a los no pocos indecisos.
 
@@ -6,8 +6,8 @@ En este proyecto vamos a analizar con Python algunos aspectos de los programas e
 
 NOTA: Por aquí nadie se ha leído los programas.
 
-* [Notebook: Análisis de los programas políticos para las Elecciones Generales](https://nbviewer.jupyter.org/github/pyjaime/elecciones-2019-28a/blob/master/elecciones-generales-2019-28a.ipynb)
-* [Artículo en Medium: "Juego de Tronos, versión española"](https://medium.com/metadatos/juego-de-tronos-versi%C3%B3n-espa%C3%B1ola-fff39cf35adc)
+* [Notebook: Análisis de los programas políticos para las Elecciones Generales](https://nbviewer.jupyter.org/github/pyjaime/elecciones-2019-28a/blob/master/elecciones-generales-2019-28a.ipynb) [español]
+* [Artículo en Medium: "Juego de Tronos, versión española"](https://medium.com/metadatos/juego-de-tronos-versi%C3%B3n-espa%C3%B1ola-fff39cf35adc) [español]
 
 --------------------------
 
@@ -20,3 +20,4 @@ In this project we will analyze with Python some aspects of the electoral progra
 NOTE: No one here has read the programs.
 
 * [Notebook: Analysis of political programs for General Election in Spain](https://nbviewer.jupyter.org/github/pyjaime/elecciones-2019-28a/blob/master/general-election-2019-28a.ipynb) **[english version]**
+* [Article on Medium: How to analyze and compare electoral programs using Python](https://medium.com/yottabytes/how-to-analyze-and-compare-electoral-programs-using-python-e0b7424eae3) **[english]**
